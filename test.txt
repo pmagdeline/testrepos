@@ -1,1 +1,7 @@
 Technical task for Fenwick Software
+
+Brief
+Create a command line program that can record numeric values and summarises them.
+While the task is not representative of typical tasks at Fenwick, this task is an opportunity to exhibit your programming and design skills, and does not require knowledge of specific frameworks or libraries.
+The program can be written in your preferred language and IDE/editor.
+Please provide short commentary in the form of method documentation and inline code comments where appropriate, or as a separate document if desired.
